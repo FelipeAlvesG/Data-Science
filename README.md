@@ -1,2 +1,2 @@
 # Data-Science
-Repositório para Estudos feitos com Ciência de Dados
+Repositório para estudos feitos com Ciência de Dados
